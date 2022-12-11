@@ -1,10 +1,10 @@
-## [rsschool-cv](https://github.com/Stoidaikaia/rsschool-cv/tree/gh-pages "Ссылка на репозиторий с резюме"git)
+## [rsschool-cv](https://github.com/Stoidaikaia/rsschool-cv/tree/gh-pages "Ссылка на репозиторий с резюме")
 
 # **Dmitrii Litovskii**
 ## **My contact info:**
-**GitHub:https://github.com/Stoidaikaia**
-**Discord:Dima Litovskii#1328**
-**Phone: +375292569949**
+* **GitHub: https://github.com/Stoidaikaia**
+* **Discord: Dima Litovskii#1328**
+* **Phone: +375292569949**
 
 ## About Me
 _Minsk,  Belarus_  
