@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://github-Stoidaikaia.github.io/rsschool-cv/cv
+https://stoidaikaia.github.io/rsschool-cv/CV
